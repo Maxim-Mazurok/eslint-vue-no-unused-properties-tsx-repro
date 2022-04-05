@@ -1,0 +1,10 @@
+# All files are considered text by default, checked out and commited using your OS's style
+* text=auto
+
+# These files are binary and should be left untouched
+*.png binary
+*.ico binary
+*.zip binary
+*.lib	binary
+*.msi	binary
+*.gz	binary
